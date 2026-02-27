@@ -2,7 +2,7 @@
 
 import { useState, useRef, useCallback, useEffect } from "react";
 
-const API_BASE = "http://localhost:8000/api/v1";
+const API_BASE = "maskit-ai-production.up.railway.app";
 
 /* ── Sample data ─────────────────────────── */
 const SAMPLE_TEXTS = [
